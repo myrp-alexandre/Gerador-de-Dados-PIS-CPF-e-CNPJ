@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerador de PIS", "Gerador de PIS\Gerador de PIS.csproj", "{A1F05ACF-D9B3-4141-B27E-E395B28ED78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerador de CPF", "Gerador de CPF\Gerador de CPF.csproj", "{6C678FFC-6FD7-400A-A5E8-031A6D9F4FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F05ACF-D9B3-4141-B27E-E395B28ED78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F05ACF-D9B3-4141-B27E-E395B28ED78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F05ACF-D9B3-4141-B27E-E395B28ED78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F05ACF-D9B3-4141-B27E-E395B28ED78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C678FFC-6FD7-400A-A5E8-031A6D9F4FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C678FFC-6FD7-400A-A5E8-031A6D9F4FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C678FFC-6FD7-400A-A5E8-031A6D9F4FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C678FFC-6FD7-400A-A5E8-031A6D9F4FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6AA0FB-B4AA-44F8-8332-7276FECBA371}
+	EndGlobalSection
+EndGlobal

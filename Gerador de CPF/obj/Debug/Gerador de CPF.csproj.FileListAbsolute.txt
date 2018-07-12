@@ -1,0 +1,6 @@
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de CPF\obj\Debug\Gerador de CPF.csproj.CoreCompileInputs.cache
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de CPF\bin\Debug\Gerador de CPF.exe.config
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de CPF\bin\Debug\Gerador de CPF.exe
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de CPF\bin\Debug\Gerador de CPF.pdb
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de CPF\obj\Debug\Gerador de CPF.exe
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de CPF\obj\Debug\Gerador de CPF.pdb

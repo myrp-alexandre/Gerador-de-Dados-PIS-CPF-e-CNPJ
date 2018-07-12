@@ -1,0 +1,7 @@
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de PIS\bin\Debug\Gerador de PIS.exe.config
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de PIS\bin\Debug\Gerador de PIS.exe
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de PIS\bin\Debug\Gerador de PIS.pdb
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de PIS\obj\Debug\Gerador de PIS.csprojAssemblyReference.cache
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de PIS\obj\Debug\Gerador de PIS.csproj.CoreCompileInputs.cache
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de PIS\obj\Debug\Gerador de PIS.exe
+C:\Projetos GIT\Gerador-PIS-Lote\Gerador de PIS\Gerador de PIS\obj\Debug\Gerador de PIS.pdb
