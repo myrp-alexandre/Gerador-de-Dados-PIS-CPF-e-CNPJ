@@ -1,0 +1,7 @@
+C:\Projetos GIT\Gerador-de-Dados-PIS-CPF-e-CNPJ\Gerador de CNPJ\bin\Debug\Gerador de CNPJ.exe.config
+C:\Projetos GIT\Gerador-de-Dados-PIS-CPF-e-CNPJ\Gerador de CNPJ\bin\Debug\Gerador de CNPJ.exe
+C:\Projetos GIT\Gerador-de-Dados-PIS-CPF-e-CNPJ\Gerador de CNPJ\bin\Debug\Gerador de CNPJ.pdb
+C:\Projetos GIT\Gerador-de-Dados-PIS-CPF-e-CNPJ\Gerador de CNPJ\obj\Debug\Gerador de CNPJ.csprojAssemblyReference.cache
+C:\Projetos GIT\Gerador-de-Dados-PIS-CPF-e-CNPJ\Gerador de CNPJ\obj\Debug\Gerador de CNPJ.csproj.CoreCompileInputs.cache
+C:\Projetos GIT\Gerador-de-Dados-PIS-CPF-e-CNPJ\Gerador de CNPJ\obj\Debug\Gerador de CNPJ.exe
+C:\Projetos GIT\Gerador-de-Dados-PIS-CPF-e-CNPJ\Gerador de CNPJ\obj\Debug\Gerador de CNPJ.pdb
